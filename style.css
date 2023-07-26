@@ -97,7 +97,7 @@ a {
 .botonera {
   position: absolute;
   margin-top: -459px;
-  margin-left: -37px;
+  margin-left: 0px;
   width: 97%;
   height: 94px;
   display: flex;
@@ -105,7 +105,7 @@ a {
 }
 
 .conexto {
-  background-color: rgba(68, 68, 68, 0.8);
+  background-color: rgba(0, 170, 191, 1);
   color: #ffffff;
   width: 158px;
   height: 60px;
@@ -126,7 +126,7 @@ a {
 }
 
 .conexto:hover {
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 170, 191, 0.5);
 }
 
 .conexto p {
@@ -432,8 +432,8 @@ a {
 }
 
 .activo {
-  color: #009fb4 !important;
-  border: solid #009fb4 4px;
+  color: #0f102b !important;
+  border: solid #0f102b 4px;
   box-shadow: 26px 23px 86px -24px rgba(255, 255, 255, 0.75);
   -webkit-box-shadow: 26px 23px 86px -24px rgba(255, 255, 255, 0.75);
   -moz-box-shadow: 26px 23px 86px -24px rgba(255, 255, 255, 0.75);
